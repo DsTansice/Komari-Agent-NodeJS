@@ -1,7 +1,7 @@
 # Komari-Agent-NodeJS
-Komari-Agent-NodeJS is a Komari monitoring agent written in Node.js, designed for environments where the execution of binary probes is restricted, yet Node.js can be run.
+Komari-Agent-NodeJS is a Komari monitoring agent written in Node.js. It is suitable for any environment where the execution of binary probes is restricted, yet Node.js can be run.
 
-Komari-Agent-NodeJS 是一个使用 NodeJS 语言编写的 komari 监控 Agent，适用于限制执行二进制探针但是能跑NodeJS的环境
+Komari-Agent-NodeJS 是一个使用 NodeJS 语言编写的 komari 监控 Agent，适用于限制执行二进制探针但是能跑NodeJS的任何环境！
 
 
 
