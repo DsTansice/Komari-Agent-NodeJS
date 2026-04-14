@@ -3,6 +3,11 @@ Komari-Agent-NodeJS is a Komari monitoring agent written in Node.js, designed fo
 
 Komari-Agent-NodeJS 是一个使用 NodeJS 语言编写的 komari 监控 Agent，适用于限制执行二进制探针但是能跑NodeJS的环境
 
+# 使用方法
+使用请修改71行主控网址及72行Token参数，当然也可以环境变量里设置
+
+KOMARI_HTTP_SERVER || '改成你的主控端网站'
+KOMARI_TOKEN || '改成你的Token'
 
 # 关于作者 About
 作者博客：https://blog.qfff.de
