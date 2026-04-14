@@ -45,7 +45,7 @@ KOMARI_TOKEN || '改成你的Token'
   <p style="margin: 4px 0 0 0; color: #999; font-size: 12px;">感谢您的支持 ❤️</p>
 </div>
 
-# TG频道和群主 CHANNEL
+# TG频道和群组 CHANNEL GRUOP
 玖玖の日常频道：https://t.me/jiujiuLife
 
 玖玖の小窝群组：https://t.me/jiujiuHome
