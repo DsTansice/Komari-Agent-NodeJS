@@ -37,7 +37,7 @@ KOMARI_TOKEN || '改成你的Token'
 
 
 # 关于作者 About
-作者博客：https://blog.qfff.de
+作者博客：https://www.076666.xyz
 
 <div style="display: inline-block; text-align: center; padding: 16px; border: 1px solid #e0e0e0; border-radius: 8px; background: #fafafa;">
   <img src="https://www.010085.xyz/pic/wechat.jpg" width="180" style="display: block; border-radius: 4px;" alt="赞助项目发展">
