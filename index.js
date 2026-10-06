@@ -2,8 +2,9 @@
 
 /**
  * Komari-Agent-NodeJS
+ * v1协议兼容版本
  * 项目Github：https://github.com/DsTansice/Komari-Agent-NodeJS
- * 作者博客：https://blog.qfff.de
+ * 作者博客：https://www.076666.xyz
  * 使用请修改71行主控网址及72行Token参数，当然也可以环境变量里设置
  */
 
