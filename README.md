@@ -7,7 +7,9 @@ Komari-Agent-NodeJS 是一个使用 NodeJS 语言编写的 komari 监控 Agent�
 
 ## 使用说明
 分为v1版本和v2版本
+
 v1版本适用于旧版komari服务端
+
 v2版本适用于最新版komari客户端
 ## 最简单使用方法
 使用请修改71行主控网址及72行Token参数，当然也可以环境变量里设置
