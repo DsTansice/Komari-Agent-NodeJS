@@ -11,12 +11,16 @@ Komari-Agent-NodeJS 是一个使用 NodeJS 语言编写的 komari 监控 Agent�
 v1版本适用于旧版komari服务端
 
 v2版本适用于最新版komari（1.5.1及以上）服务端
+
 ## 最简单使用方法
-使用请修改71行主控网址及72行Token参数，当然也可以环境变量里设置
+v1版本：使用请修改**71行**主控网址及**72行**Token参数，当然也可以环境变量里设置
+
+v2版本：使用请修改**69行**主控网址及**70行**Token参数，当然也可以环境变量里设置
 
 KOMARI_HTTP_SERVER || '改成你的主控端网站'
 
 KOMARI_TOKEN || '改成你的Token'
+
 
 ## 命令行选项
 
@@ -45,7 +49,7 @@ KOMARI_TOKEN || '改成你的Token'
 作者博客：https://www.076666.xyz
 
 <div style="display: inline-block; text-align: center; padding: 16px; border: 1px solid #e0e0e0; border-radius: 8px; background: #fafafa;">
-  <img src="https://www.010085.xyz/pic/wechat.jpg" width="180" style="display: block; border-radius: 4px;" alt="赞助项目发展">
+  <img src="https://cdn.jsdelivr.net/gh/DsTansice/Komari-Agent-NodeJS@main/image.png" width="180" style="display: block; border-radius: 4px;" alt="赞助项目发展">
   <p style="margin: 12px 0 0 0; color: #333; font-size: 14px; font-weight: 500;">微信扫码赞赏</p>
   <p style="margin: 4px 0 0 0; color: #999; font-size: 12px;">感谢您的支持 ❤️</p>
 </div>
